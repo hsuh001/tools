@@ -50,19 +50,19 @@ watch某个项目后，这个项目有任何更新，都会在第一时间收到
 
 * 右侧显示所有的git库
 
-  ![](D:\JLab\tools\Git\figs\1-1_1_github_mainpage.png)
+  ![](D:\JLab\tools_new\Git\figs\1-1_1_github_mainpage.png)
 
 * 仓库主页
 
   显示项目的信息，如code、版本、star / watch / fork情况
 
-  ![](D:\JLab\tools\Git\figs\1-1_2_repository_mainpage.png)
+  ![](D:\JLab\tools_new\Git\figs\1-1_2_repository_mainpage.png)
 
 * 个人主页
 
   个人信息（头像、简介）、关注用户、被关注用户、被关注git库、repositories、projects、packages、贡献的开源项目信息等、
 
-  ![](D:\JLab\tools\Git\figs\1-1_3_user_mainpage.png)
+  ![](D:\JLab\tools_new\Git\figs\1-1_3_user_mainpage.png)
 
 ## 2、Git安装与使用
 
@@ -70,79 +70,79 @@ watch某个项目后，这个项目有任何更新，都会在第一时间收到
 
 1、Git下载地址：https://git-scm.com/downloads
 
-<img src="D:\JLab\tools\Git\figs\2-1_1_git_download_page.png" style="zoom:80%;" />
+<img src="D:\JLab\tools_new\Git\figs\2-1_1_git_download_page.png" style="zoom:80%;" />
 
 2、安装
 
 * （1）step1：双击安装
 
-  ![](D:\JLab\tools\Git\figs\2-1_2_git_setup_exe.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_2_git_setup_exe.png)
 
 * （2）step2：点击`Next`
 
-![](D:\JLab\tools\Git\figs\2-1_3_git_setup_next.png)
+![](D:\JLab\tools_new\Git\figs\2-1_3_git_setup_next.png)
 
 * （3）选择安装路径，点击`Next`
 
-  ![](D:\JLab\tools\Git\figs\2-1_4_git_setup_dir.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_4_git_setup_dir.png)
 
 * （4）选择安装组件，默认`Next`
 
-  ![](D:\JLab\tools\Git\figs\2-1_5_git_setup_components.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_5_git_setup_components.png)
 
 * （5）选择开始菜单，默认`Next`
 
-  ![](D:\JLab\tools\Git\figs\2-1_6_git_setup_start_menu.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_6_git_setup_start_menu.png)
 
 * （6）选择编辑器，随后点击`Next`
 
-  ![](D:\JLab\tools\Git\figs\2-1_7_git_setup_editor.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_7_git_setup_editor.png)
 
 * （7）选择创建新repository的initial branch，默认为`master`
 
-  ![](D:\JLab\tools\Git\figs\2-1_8_git_setup_intitial_branch.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_8_git_setup_intitial_branch.png)
 
   
 
 * （8）选择使用Git时的命令行模式：
 
-  ![](D:\JLab\tools\Git\figs\2-1_9_git_setup_path_environment.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_9_git_setup_path_environment.png)
 
 * （9）选择HTTPS transport backend：
 
-  ![](D:\JLab\tools\Git\figs\2-1_10_git_setup_openssl_library.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_10_git_setup_openssl_library.png)
 
 * （10）设置line ending conversions：
 
-  ![](D:\JLab\tools\Git\figs\2-1_11_git_setup_line_ending.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_11_git_setup_line_ending.png)
 
 * （11）设置terminal emualtor：
 
-  ![](D:\JLab\tools\Git\figs\2-1_12_git_setup_terminal_emulator.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_12_git_setup_terminal_emulator.png)
 
 * （12）设置'git pull'为default：
 
-  ![](D:\JLab\tools\Git\figs\2-1_13_git_setup_default_git_pull.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_13_git_setup_default_git_pull.png)
 
 * （13）设置credential helper：
 
-  ![](D:\JLab\tools\Git\figs\2-1_14_git_setup_credential_helper.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_14_git_setup_credential_helper.png)
 
 * （14）设置extra options：
 
-  ![](D:\JLab\tools\Git\figs\2-1_15_git_setup_extra_options.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_15_git_setup_extra_options.png)
 
 * （15）设置experimental options：
 
-  ![](D:\JLab\tools\Git\figs\2-1_16_git_setup_experimental_options.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_16_git_setup_experimental_options.png)
 
 * （16）进行installing，
 
-  ![](D:\JLab\tools\Git\figs\2-1_17_git_setup_installing.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_17_git_setup_installing.png)
 
 * （17）安装完成，
 
-  ![](D:\JLab\tools\Git\figs\2-1_18_git_setup_finish.png)
+  ![](D:\JLab\tools_new\Git\figs\2-1_18_git_setup_finish.png)
 
 ### 2.2 Git基本工作流程
 
